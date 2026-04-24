@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Playwright
+.playwright/
+playwright-report/
+test-results/
+
+# IDE
+.idea/
+.vscode/
+
+# Test reports
+pytest-report.html
+report.html
+htmlcov/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
